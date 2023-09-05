@@ -1,6 +1,5 @@
 class Area {
 
-    // fields to calculate area
     int length;
     int breadth;
 

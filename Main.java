@@ -3,7 +3,6 @@ class Area {
     int length;
     int breadth;
 
-    // constructor to initialize values
     Area(int length, int breadth) {
         this.length = length;
         this.breadth = breadth;
